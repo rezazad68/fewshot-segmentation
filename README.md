@@ -19,13 +19,13 @@ The implementation code is availabel in Source Code folder.</br>
 Notice: `parser_utils.py` can be used for hyper parameter setting and defining data set address, k-shot and n-way.
 
 ## Quick Overview
-![Diagram of the proposed method](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/Figure1.png)
+![Diagram of the proposed method](https://github.com/rezazad68/fewshot-segmentation/tree/main/githubimages/Figure1.png)
 
 ### Structure of the Proposed Scale Space encoder for reducing texture bias effect
-![Diagram of the SSR](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/Figure2.png)
+![Diagram of the SSR](https://github.com/rezazad68/fewshot-segmentation/tree/main/githubimages/Figure2.png)
 
 ### Visual representation of 21 classes from 1000-class dataset with their masks and generated bounding box [Download link](https://github.com/rezazad68/fewshot-segmentation/raw/master/FSS-1000%20Bounding%20Box%20Annotation.zip)
-![Bounding Box annotation for FSS-1000](https://github.com/rezazad68/fewshot-segmentation/blob/master/githubimages/Weak%20Annotation%20samples%20for%20FSS1000.jpg)
+![Bounding Box annotation for FSS-1000](https://github.com/rezazad68/fewshot-segmentation/tree/main/githubimages/Weak%20Annotation%20samples%20for%20FSS1000.jpg)
 
 
 
