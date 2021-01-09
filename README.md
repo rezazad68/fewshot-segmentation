@@ -1,6 +1,6 @@
 # [On the Texture Bias for Few-Shot CNN Segmentation]
 
-This repository contains the code for deep auto-encoder-decoder network for few-shot semantic segmentation paper. This method embeds different ferequncy information in the CNN representation to overcome with the texture bias and applies bidirectional convolutional LSTM layers to perform non-liner parametric k shot setting for few-shot semantic segmentation. 
+This repository contains the code for our WACV'21 paper 'On the Texture Bias for few-shot CNN Segmentation'.
 
 ## Prerequisties and Run
 This code has been implemented in python language using Keras libarary with tensorflow backend and tested in ubuntu OS, though should be compatible with related environment. following Environement and Library needed to run the code:
